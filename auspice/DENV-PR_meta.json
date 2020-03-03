@@ -1,0 +1,363 @@
+{
+  "annotations": {
+    "nuc": {
+      "end": 10444,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {},
+  "color_options": {
+    "country": {
+      "color_map": [
+        [
+          "Argentina",
+          "#9DC0EB"
+        ],
+        [
+          "India",
+          "#664B63"
+        ],
+        [
+          "DominicanRepublic",
+          "#FF2E02"
+        ],
+        [
+          "Haiti",
+          "#FF7F03"
+        ],
+        [
+          "Jamaica",
+          "#FFDF03"
+        ],
+        [
+          "PuertoRico",
+          "#FF4EEB"
+        ],
+        [
+          "SaintBarth\u00e9lemy",
+          "#A200F4"
+        ],
+        [
+          "USVI",
+          "#F2B0EB"
+        ],
+        [
+          "ElSalvador",
+          "#ABFF03"
+        ],
+        [
+          "Mexico",
+          "#03FF23"
+        ],
+        [
+          "Nicaragua",
+          "#017D11"
+        ],
+        [
+          "UnitedStates",
+          "#02E5C5"
+        ],
+        [
+          "Brazil",
+          "#02AFE5"
+        ],
+        [
+          "Colombia",
+          "#023BE5"
+        ],
+        [
+          "Ecuador",
+          "#1800FF"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "Country",
+      "menuItem": "country",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "state": {
+      "key": "state",
+      "legendTitle": "State",
+      "menuItem": "state",
+      "type": "discrete"
+    }
+  },
+  "defaults": {
+    "colorBy": "state",
+    "geoResolution": "state",
+    "mapTriplicate": false
+  },
+  "filters": [
+    "country",
+    "state"
+  ],
+  "geo": {
+    "country": {
+      "Argentina": {
+        "latitude": -37.0186653,
+        "longitude": -81.6456413
+      },
+      "Brazil": {
+        "latitude": -13.6587515,
+        "longitude": -69.6993786
+      },
+      "BritishVirginIslands ": {
+        "latitude": 18.5224436,
+        "longitude": -64.8522253
+      },
+      "Colombia": {
+        "latitude": 4.6420128,
+        "longitude": -78.8466315
+      },
+      "DominicanRepublic": {
+        "latitude": 18.6691595,
+        "longitude": -71.2540413
+      },
+      "Ecuador": {
+        "latitude": -1.3442154,
+        "longitude": -88.4039445
+      },
+      "ElSalvador": {
+        "latitude": 13.7491024,
+        "longitude": -90.0542561
+      },
+      "Haiti": {
+        "latitude": 19.0343987,
+        "longitude": -74.2389615
+      },
+      "India": {
+        "latitude": 20.7698787,
+        "longitude": 73.7050435
+      },
+      "Jamaica": {
+        "latitude": 18.1186869,
+        "longitude": -78.4001042
+      },
+      "Mexico": {
+        "latitude": 23.3129231,
+        "longitude": -111.6639142
+      },
+      "Nicaragua": {
+        "latitude": 12.8646689,
+        "longitude": -87.2672812
+      },
+      "PuertoRico": {
+        "latitude": 18.2078215,
+        "longitude": -67.7098664
+      },
+      "SaintBarth\u00e9lemy": {
+        "latitude": 17.9223007,
+        "longitude": -62.9416618
+      },
+      "USVI": {
+        "latitude": 17.7296291,
+        "longitude": -64.8747988
+      },
+      "UnitedStates": {
+        "latitude": 25.7825452,
+        "longitude": -80.2996702
+      }
+    },
+    "state": {
+      "Adjuntas": {
+        "latitude": 18.1629515,
+        "longitude": -66.7284316
+      },
+      "AguaBuenas": {
+        "latitude": 18.2575403,
+        "longitude": -66.1145098
+      },
+      "Aguada": {
+        "latitude": 18.3806386,
+        "longitude": -67.2168403
+      },
+      "Aguadilla": {
+        "latitude": 18.4193552,
+        "longitude": -67.1711565
+      },
+      "Anasco": {
+        "latitude": 18.2863818,
+        "longitude": -67.1503261
+      },
+      "Arecibo": {
+        "latitude": 18.4047993,
+        "longitude": -66.745474
+      },
+      "Arroyo": {
+        "latitude": 17.9964219,
+        "longitude": -66.0925739
+      },
+      "Barceloneta": {
+        "latitude": 18.4541037,
+        "longitude": -66.5459232
+      },
+      "Barranquitas": {
+        "latitude": 18.1845559,
+        "longitude": -66.3182537
+      },
+      "Bayamon": {
+        "latitude": 18.4002657,
+        "longitude": -66.1537618
+      },
+      "Caguas": {
+        "latitude": 18.23931,
+        "longitude": -66.0771474
+      },
+      "Camuy": {
+        "latitude": 18.4181172,
+        "longitude": -66.926205
+      },
+      "Canovanas": {
+        "latitude": 18.3811414,
+        "longitude": -65.922975
+      },
+      "Carolina": {
+        "latitude": 18.3682506,
+        "longitude": -66.042646
+      },
+      "Cidra": {
+        "latitude": 18.1757164,
+        "longitude": -66.1609235
+      },
+      "Comerio": {
+        "latitude": 18.2206951,
+        "longitude": -66.2331417
+      },
+      "Dorado": {
+        "latitude": 18.4527724,
+        "longitude": -66.303453
+      },
+      "Florida": {
+        "latitude": 27.664827,
+        "longitude": -81.515755
+      },
+      "Guayama": {
+        "latitude": 18.0192474,
+        "longitude": -66.1321677
+      },
+      "Gurabo": {
+        "latitude": 18.2510129,
+        "longitude": -66.0044268
+      },
+      "Hatillo": {
+        "latitude": 18.4796706,
+        "longitude": -66.8323943
+      },
+      "Humacao": {
+        "latitude": 18.1474278,
+        "longitude": -65.8542749
+      },
+      "Isabela": {
+        "latitude": 18.4456574,
+        "longitude": -67.04766
+      },
+      "Lares": {
+        "latitude": 18.295587,
+        "longitude": -66.8905497
+      },
+      "Loiza": {
+        "latitude": 18.4213294,
+        "longitude": -65.9456497
+      },
+      "Luquillo": {
+        "latitude": 18.3388,
+        "longitude": -65.7172171
+      },
+      "Manati": {
+        "latitude": 18.4182747,
+        "longitude": -66.561471
+      },
+      "Maricao": {
+        "latitude": 18.1848151,
+        "longitude": -66.9843432
+      },
+      "Mayaguez": {
+        "latitude": 18.2019063,
+        "longitude": -67.1687654
+      },
+      "Morovis": {
+        "latitude": 18.3280707,
+        "longitude": -66.4142042
+      },
+      "Naguabo": {
+        "latitude": 18.2104321,
+        "longitude": -65.7421205
+      },
+      "PR": {
+        "latitude": 18.2078215,
+        "longitude": -67.7098664
+      },
+      "Ponce": {
+        "latitude": 18.011564,
+        "longitude": -66.613958
+      },
+      "Rincon": {
+        "latitude": 18.3362169,
+        "longitude": -67.2616028
+      },
+      "RioGrande": {
+        "latitude": 18.3920463,
+        "longitude": -66.0357696
+      },
+      "SabanaGrande": {
+        "latitude": 18.077639,
+        "longitude": -66.961252
+      },
+      "Salinas": {
+        "latitude": 18.077808,
+        "longitude": -66.368906
+      },
+      "SanJuan": {
+        "latitude": 18.465299,
+        "longitude": -66.116666
+      },
+      "SanSebastian": {
+        "latitude": 18.3235968,
+        "longitude": -67.007355
+      },
+      "StCroix": {
+        "latitude": 17.729503,
+        "longitude": -64.8045826
+      },
+      "ToaBaja": {
+        "latitude": 18.4440893,
+        "longitude": -66.2637942
+      },
+      "TrujilloAlto": {
+        "latitude": 18.3542408,
+        "longitude": -66.007377
+      },
+      "Utuado": {
+        "latitude": 18.2501277,
+        "longitude": -66.768769
+      },
+      "VegaBaja": {
+        "latitude": 18.4086693,
+        "longitude": -66.4088501
+      },
+      "Yabucoa": {
+        "latitude": 18.0463952,
+        "longitude": -65.8885667
+      }
+    }
+  },
+  "maintainer": [
+    "Add your name here",
+    "Add your github link repository here"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Add your project title here",
+  "updated": "03 Mar 2020",
+  "virus_count": 244
+}
