@@ -1,0 +1,309 @@
+{
+  "annotations": {
+    "2K peptide": {
+      "end": 6811,
+      "start": 6742,
+      "strand": 1
+    },
+    "C": {
+      "end": 421,
+      "start": 79,
+      "strand": 1
+    },
+    "E": {
+      "end": 2404,
+      "start": 919,
+      "strand": 1
+    },
+    "NS1": {
+      "end": 3460,
+      "start": 2404,
+      "strand": 1
+    },
+    "NS2A": {
+      "end": 4114,
+      "start": 3460,
+      "strand": 1
+    },
+    "NS2B": {
+      "end": 4504,
+      "start": 4114,
+      "strand": 1
+    },
+    "NS3": {
+      "end": 6361,
+      "start": 4504,
+      "strand": 1
+    },
+    "NS4A": {
+      "end": 6742,
+      "start": 6361,
+      "strand": 1
+    },
+    "NS4B": {
+      "end": 7558,
+      "start": 6811,
+      "strand": 1
+    },
+    "NS5": {
+      "end": 10255,
+      "start": 7558,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 10444,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {
+    "Baniecki,M.L. et al.": {
+      "n": 1
+    },
+    "Barrero,P.R.et al": {
+      "n": 23
+    },
+    "Fontaine,A. et al.": {
+      "n": 1
+    },
+    "Henn,M.R. et al.": {
+      "n": 55
+    },
+    "Jayashri,A.P. et al.": {
+      "n": 1
+    },
+    "Lednicky,J.A. et al.": {
+      "n": 1
+    },
+    "Lin,X. et al.": {
+      "n": 3
+    },
+    "Shihada,S. et al.": {
+      "n": 2
+    },
+    "Silva,A.M. et al.": {
+      "n": 15
+    },
+    "Stewart-Ibarra,A.M. et al.": {
+      "n": 1
+    },
+    "Vedovello,D. et al.": {
+      "n": 12
+    },
+    "Wise,E.L. et al.": {
+      "n": 1
+    },
+    "Zody,M.C. et al.": {
+      "n": 33
+    },
+    "cdcyale": {
+      "n": 94
+    }
+  },
+  "color_options": {
+    "authors": {
+      "color_map": [
+        [
+          "cdcyale",
+          "#F64FEE"
+        ]
+      ],
+      "key": "authors",
+      "legendTitle": "Authors",
+      "menuItem": "authors",
+      "type": "discrete"
+    },
+    "country": {
+      "color_map": [
+        [
+          "Argentina",
+          "#00CCFC"
+        ],
+        [
+          "Brazil",
+          "#00A8FC"
+        ],
+        [
+          "BritishVirginIslands ",
+          "#FC009C"
+        ],
+        [
+          "Colombia",
+          "#0058FC"
+        ],
+        [
+          "DominicanRepublic",
+          "#FCD000"
+        ],
+        [
+          "Ecuador",
+          "#0010FC"
+        ],
+        [
+          "ElSalvador",
+          "#6DF400"
+        ],
+        [
+          "Haiti",
+          "#F98E7A"
+        ],
+        [
+          "India",
+          "#A14FF6"
+        ],
+        [
+          "Jamaica",
+          "#FEB26D"
+        ],
+        [
+          "Mexico",
+          "#377902"
+        ],
+        [
+          "Nicaragua",
+          "#8D9E7F"
+        ],
+        [
+          "PuertoRico",
+          "#F64FEE"
+        ],
+        [
+          "SaintBartholemy",
+          "#B9CC00"
+        ],
+        [
+          "UnitedStates",
+          "#00CCB2"
+        ],
+        [
+          "USVI",
+          "#388F84"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "Country",
+      "menuItem": "country",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "region": {
+      "color_map": [
+        [
+          "SouthAmerica",
+          "#092EF6"
+        ],
+        [
+          "Caribbean",
+          "#F61B09"
+        ],
+        [
+          "CentralAmerica",
+          "#F69F09"
+        ],
+        [
+          "Asia",
+          "#A14FF6"
+        ]
+      ],
+      "key": "region",
+      "legendTitle": "Region",
+      "menuItem": "region",
+      "type": "discrete"
+    }
+  },
+  "defaults": {
+    "colorBy": "country",
+    "geoResolution": "country",
+    "mapTriplicate": false
+  },
+  "filters": [
+    "country",
+    "region",
+    "authors"
+  ],
+  "geo": {
+    "country": {
+      "Argentina": {
+        "latitude": -38.416096,
+        "longitude": -63.616673
+      },
+      "Brazil": {
+        "latitude": -14.235004,
+        "longitude": -51.925282
+      },
+      "BritishVirginIslands ": {
+        "latitude": 18.4235,
+        "longitude": -64.619827
+      },
+      "Colombia": {
+        "latitude": 4.570868,
+        "longitude": -74.297333
+      },
+      "DominicanRepublic": {
+        "latitude": 18.892313,
+        "longitude": -70.206847
+      },
+      "Ecuador": {
+        "latitude": -1.519327,
+        "longitude": -78.356744
+      },
+      "ElSalvador": {
+        "latitude": 13.63171,
+        "longitude": -88.910934
+      },
+      "Haiti": {
+        "latitude": 18.964026,
+        "longitude": -71.997442
+      },
+      "India": {
+        "latitude": 23.041173,
+        "longitude": 78.891806
+      },
+      "Jamaica": {
+        "latitude": 18.115368,
+        "longitude": -77.160905
+      },
+      "Mexico": {
+        "latitude": 22.40657,
+        "longitude": -101.844884
+      },
+      "Nicaragua": {
+        "latitude": 12.139432,
+        "longitude": -84.908726
+      },
+      "PuertoRico": {
+        "latitude": 18.215691,
+        "longitude": -66.414655
+      },
+      "SaintBartholemy": {
+        "latitude": 17.900342,
+        "longitude": -62.820854
+      },
+      "USVI": {
+        "latitude": 17.746333,
+        "longitude": -64.7037
+      },
+      "UnitedStates": {
+        "latitude": 25.727953,
+        "longitude": -80.234049
+      }
+    }
+  },
+  "maintainer": [
+    "FabyCruz",
+    "https://github.com/FabyCruzPR/DENV1_PR"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "DENV-1 dynamics in Puerto Rico",
+  "updated": "04 Mar 2020",
+  "virus_count": 244
+}
