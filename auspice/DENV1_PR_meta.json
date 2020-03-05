@@ -54,6 +54,11 @@
       "end": 10444,
       "start": 0,
       "strand": 1
+    },
+    "prM": {
+      "end": 919,
+      "start": 421,
+      "strand": 1
     }
   },
   "author_info": {
@@ -304,6 +309,6 @@
     "entropy"
   ],
   "title": "DENV-1 dynamics in Puerto Rico",
-  "updated": "04 Mar 2020",
+  "updated": "05 Mar 2020",
   "virus_count": 244
 }
